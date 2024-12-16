@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<  !--
-**PhoenixAlpha23/PhoenixAlpha23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,27 +8,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey there! I'm [Your Name] 🌟 :>
+# Hey there! I'm Aryan Tandon 🌟 :>
 
-Been working on [insert your current interests/projects]. Check it out!
+I've Been working on things like tesseract OCR, Knowledge Gap analyser and even a flutter application for a hackathon. 
 
-Take a look at [Your Project Link] 📜.
+You check them out in my repositories 📜.
 
-## **About Me** 
-- 🌱 I’m diving into [field, e.g., AI/ML, web development].
-- 💻 Currently, I'm working on [mention your key project].
-- 🎯 Interested in [key interests, e.g., architectures, NLP, etc.].
-- 🎵 In my free time, I enjoy [hobby] and building [specific focus, e.g., ML models].
-- 🚀 Check out my [Portfolio](insert-link).
+## **About Myself** 
+- 🌱 I’m diving into Deep learning, especially NLP related tasks.
+- 💻 Currently, I'm working on Building a seq2seq transformer model to correct OCR generated text.
+- 🎯 Interested in Machine Learning, make then truly understand what im trying to say. 
+- 🎵 In my free time, I enjoy reading articles and research papers(its a legit hobby yk) and building lesser explored ML models and techniques.
+- 🚀 Check out my [Portfolio](https://github.com/PhoenixAlpha23).
 
-Follow me on [Medium](#), where I share articles and tutorials.
-
-- 🔧 My projects are [Dockerized/any other tech you use].
+- 🔧 My projects are Dockerized, for ease of use.
 - 📬 Want to connect? Reach out below!
 
+## Streamlit Application.
+You can explore my OCR based streamlit Application here:
+[![Website](https://img.shields.io/badge/-Website-0473c2?style=flat-square&logo=Google-Chrome&logoColor=white)](https://ocr-project-msvaqi6mtvblxm3d3bigxn.streamlit.app/)
 ## **How to reach me**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](your-linkedin-link)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Website](https://img.shields.io/badge/-Website-0473c2?style=flat-square&logo=Google-Chrome&logoColor=white)](your-website-link)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/aryanrahultandon)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:aryantandon2323@gmail.com)
 ---
