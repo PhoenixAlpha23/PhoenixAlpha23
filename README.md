@@ -17,7 +17,7 @@ You check them out in my repositories 📜.
 ## Streamlit Application.
 You can explore my OCR based streamlit Application here:
 [![Website](https://img.shields.io/badge/-Website-0473c2?style=flat-square&logo=Google-Chrome&logoColor=white)](https://ocr-project-msvaqi6mtvblxm3d3bigxn.streamlit.app/)
-## **How to reach me**
+## **Kindly connect with me here.**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/aryanrahultandon)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:aryantandon2323@gmail.com)
 ---
