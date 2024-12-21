@@ -1,10 +1,9 @@
-# Hey there! I'm Aryan Tandon 🌟 :>
-
-I've Been working on things like tesseract OCR, Knowledge Gap analyser and even a flutter application for a hackathon, which calculates carbon emissions based on distance and weights:) 
-
-You check them out in my repositories 📜.
+# Hey there! I'm Aryan Tandon 🌟 :)
 
 ## **About Myself** 
+I've Been working on things like tesseract OCR, Knowledge Gap analyser and even a flutter application for a hackathon, which calculates carbon emissions based on distance and weights. 
+You check them out in my repositories 📜.
+
 - 🌱 I’m diving into Deep learning, especially NLP related tasks.
 - 💻 Currently, I'm working on Building a seq2seq transformer model to correct OCR generated text.
 - 🎯 Interested in Machine Learning, make then truly understand what im trying to say. 
