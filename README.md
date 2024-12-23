@@ -8,10 +8,9 @@ You check them out in my repositories 📜.
 - 💻 Currently, I'm working on Building a seq2seq transformer model to correct OCR generated text.
 - 🎯 Interested in Machine Learning, make then truly understand what im trying to say. 
 - 🎵 In my free time, I enjoy reading articles and research papers(its a legit hobby yk) and building lesser explored ML models and techniques.
-- 🚀 Check out my [Portfolio](https://github.com/PhoenixAlpha23).
 
-- 🔧 My projects are Dockerized, for ease of use.
-- 📬 Want to connect? Reach out below!
+
+
 
 ## Streamlit Application.
 You can explore my OCR based streamlit Application here:
