@@ -6,7 +6,9 @@ You check them out in my repositories 📜.
 
 - 🌱 I’m most fascinated about Deep learning, especially NLP related tasks.
 
-- Recently I have gotten the wind of AI Agents and their role in this fast-evolving world of AI.
+- 🤔 Recently I have gotten the wind of AI Agents and their role in this fast-evolving world of AI.
+
+- 📃 Anyone who has knowledge about Langraph and Langflow kindly to geek out. 
 
 - 💻 Currently, I'm working on Building a seq2seq transformer model to correct OCR generated text.
 
