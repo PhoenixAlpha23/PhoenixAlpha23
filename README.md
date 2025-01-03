@@ -4,7 +4,8 @@
 I've Been working on things like tesseract OCR, Knowledge Gap analyser and even a flutter application for a hackathon, which calculates carbon emissions based on distance and weights. 
 You check them out in my repositories 📜.
 
-- 🌱 I’m diving into Deep learning, especially NLP related tasks.
+- 🌱 I’m most fascinated about Deep learning, especially NLP related tasks.
+- Recently I have gotten the wind ofbAI Agets and their role in this fast-evolving world of AI.
 - 💻 Currently, I'm working on Building a seq2seq transformer model to correct OCR generated text.
 - 🎯 Interested in Machine Learning, make then truly understand what im trying to say. 
 - 🎵 In my free time, I enjoy reading articles and research papers(its a legit hobby yk) and building lesser explored ML models and techniques.
