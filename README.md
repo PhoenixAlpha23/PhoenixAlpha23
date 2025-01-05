@@ -1,5 +1,7 @@
 # Hey there! I'm Aryan Tandon 🌟
 
+📢 Actively looking for opportunities
+
 ## **About Myself** 
 I've Been working on things like tesseract OCR, Knowledge Gap analyser and even a flutter application for a hackathon, which calculates carbon emissions based on distance and weights. 
 You check them out in my repositories 📜.
