@@ -1,7 +1,7 @@
 # Hey there! I'm Aryan Tandon 🌟
 
 # 💫 About Me:
- I’m currently working on a NER, Text-to-speech and Computer vison based prediction model.<br>👯 I’m looking to collaborate on OCR, Deep Learning and ML projects.<br>🤝 I’m looking for help with computer vision project/collaborations.<br>🌱 I’m currently learning Mahine learning concepts such as Computer Vision, OCR and NLP.<br>💬 I am a Curious one.<br>Fun fact: Currently NLP has peaked my curiousity.<br><br>I am a final student of BSc Computer Science with honours in AI and ML.<br>
+ I’m currently working on a Legal Document Digitization model, just trained a YOLOv8 model for text region detection ;).<br>👯 I’m looking to collaborate on OCR, Deep Learning and ML projects.<br>🤝 I’m looking for help with computer vision project/collaborations.<br>🌱 I’m currently learning Mahine learning concepts such as Computer Vision, OCR and NLP.<br>💬 I am a Curious one.<br>Fun fact: Currently NLP has peaked my curiousity.<br><br>I am a final student of BSc Computer Science with honours in AI and ML.<br>
 
 
 ## 🌐 Socials:
