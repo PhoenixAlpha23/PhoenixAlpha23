@@ -1,20 +1,17 @@
 # Hey there! I'm Aryan Tandon 🌟
 
 # 💫 About Me:
+I'm an aspiring AI Engineer, driven by passion and fueled by my curiosity. below are some of the projects I have worked on.
 🚀 Built a full pipeline for **Legal Document Digitization**, using YOLOv8 for region detection + OCR + Streamlit UI, check it out [here](https://legal-document-digitization.streamlit.app/).<br>
 📚 Working on fine-tuning **ByT5** on legal datasets to enhance OCR error correction & NER in my legal document application.<br>
 🧠 Working on a **Gen AI solution for Mock Question Series Generation** across subjects like Math, Physics, Bio & Chem.<br>
-🧰 Created a **carbon emission calculator** using Google Maps API & Flutter + Supabase.<br>
-🧪 Conducted structured **web scraping + keyword extraction** for a probiotics firm across 3 verticals.<br>
-
-✨ Fun fact: I fine-tuned Gemma 2B to drop wisdom with idioms across 72 languages 😎<br>
-🎓 Final year BSc CS (AI & ML) student, Annoyingly curious 🧐 <br>
 
 
-# 👯 Let’s Collaborate On:
-- OCR and Document AI 📝  
-- Deep Learning/ Computer Vision models 🤖  
-- Solve some Real-world problems with AI ;)
+
+# 👯 Looking to collaborate with people on:
+- OCR Pipelines 📝  
+- Agentic Workflows and tools like langraph 🤖  
+- VLMs and fine-tuning;)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
