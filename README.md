@@ -1,7 +1,8 @@
 # Hey there! I'm Aryan Tandon 🌟
 
 # 💫 About Me:
-I'm an aspiring AI Engineer, driven by passion and fueled by my curiosity. below are some of the projects I have worked on.
+An aspiring AI Engineer, driven by passion and fueled by my curiosity.
+
 🚀 Built a full pipeline for **Legal Document Digitization**, using YOLOv8 for region detection + OCR + Streamlit UI, check it out [here](https://legal-document-digitization.streamlit.app/).<br>
 📚 Working on fine-tuning **ByT5** on legal datasets to enhance OCR error correction & NER in my legal document application.<br>
 🧠 Working on a **Gen AI solution for Mock Question Series Generation** across subjects like Math, Physics, Bio & Chem.<br>
