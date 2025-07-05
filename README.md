@@ -1,11 +1,8 @@
-<h1 align="center">Hi, I'm Aryan Tandon</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PhoenixAlpha23&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 <p align="center">
   <img src="./assets/wall-e.gif" width="800" alt="waving gif" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PhoenixAlpha23&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <h3 align="center">AI/ML Engineer | OCR + NLP Enthusiast | Document Intelligence Builder</h3>
