@@ -44,7 +44,7 @@
     * **OCR error correction + NER** system by fine-tuning **ByT5** (English, Hindi, Marathi)
     * **Content compliance Agent** for brand guidelines
 
-* **Tech I'm exploring:**
+* **Tech:**
     * **LLMs in low-resource setups**
     * **OCR in regional languages**
     * **Real-time inference pipelines**
