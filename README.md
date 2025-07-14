@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=PhoenixAlpha23&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="center">AI/ML Engineer | OCR + NLP Enthusiast | Document Intelligence Builder</h3>
+<h3 align="center">Jr AI Engineer | OCR + NLP Enthusiast | Document Intelligence Builder</h3>
 
 ---
 
