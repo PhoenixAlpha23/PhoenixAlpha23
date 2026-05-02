@@ -37,18 +37,10 @@
 
 ---
 
-## What I'm working on:
-
-* **Currently building:**
-    * **Legal Document Digitizer** using YOLO + PyTesseract + SQLite + Streamlit
-    * **OCR error correction + NER** system by fine-tuning **ByT5** (English, Hindi, Marathi)
-    * **Content compliance Agent** for brand guidelines
-
-* **Tech:**
-    * **LLMs in low-resource setups**
-    * **OCR in regional languages**
-    * **Real-time inference pipelines**
-    * **FastAPI deployment at scale**
+# Usecases
+    - LLMs in low-resource setups
+    - Real-time inference pipelines
+    - FastAPI deployment at scale
 
 ---
 # 📊 GitHub Stats:
