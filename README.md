@@ -1,59 +1,77 @@
+<div align="center">
+
+# Hey there, I'm Aryan 👋
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Training+models%2C+tuning+APIs%2C+chasing+milliseconds...;Building+AI+that+performs+as+good+as+it+predicts.;High-Throughput+RESTful+APIs+(FastAPI+%2B+Flask);Real-Time+Computer+Vision+%26+Model+Optimization" alt="Typing SVG" />
+</a>
+
 <p align="center">
-  <img src="./assets/wall-e.gif" width="800" alt="waving gif" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PhoenixAlpha23&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <b>ML Developer & Computer Vision Engineer (1.5+ Years Experience)</b><br/>
+  Specializing in low-latency inference, real-time edge/server deployments, and scalable RESTful API architectures.
 </p>
 
-<h3 align="center">Machine Learning Developer | OCR | Computer Vision | GenAI </h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/aryanrahultandon/yolov8s-docs)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryantandon2323@gmail.com)
+
+</div>
 
 ---
 
-## My work:
+### ⚡ What I Do & Where I Focus
 
-[![Kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/aryanrahultandon/yolov8s-docs)
-[![Streamlit App](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://legal-document-digitization.streamlit.app/)
-
----
-
-## 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FFEA00?style=for-the-badge&logo=yolo&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit‑learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- 🏎️ **Inference Optimization & Latency Tuning:** Slashing end-to-end response times through code profiling, model quantization, and runtime acceleration across CPU and GPU hardware.
+- 👁️ **Edge & Multi-Stream Computer Vision:** Engineering high-throughput pipelines for object detection, handwriting OCR, facial recognition, and pose estimation under constrained environments.
+- 🔌 **High-Performance RESTful APIs:** Architecting robust, asynchronous microservices using **FastAPI** and **Flask** designed for high concurrency and seamless client integration.
+- 🗣️ **Multilingual RAG & Speech Processing:** Building conversational agents with speech-to-text (ASR) pipelines, multilingual embeddings, and custom retrieval architectures.
 
 ---
 
-# Usecases
-    - LLMs in low-resource setups
-    - Real-time inference pipelines
-    - FastAPI deployment at scale
+### 🛠️ Tech Stack & Engineering Toolkit
+
+<div align="left">
+
+**Languages, Frameworks & Deep Learning**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**APIs, Optimization & Deployment**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful-APIs-4E5D6C?style=flat-square)
+![Model Optimization](https://img.shields.io/badge/Optimization-TensorRT%20%7C%20ONNX-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+</div>
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PhoenixAlpha23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=PhoenixAlpha23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixAlpha23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PhoenixAlpha23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PhoenixAlpha23&theme=tokyonight&hide_border=true" height="165" alt="Streak Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixAlpha23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PhoenixAlpha23&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Contact me:
-* You can reach me at: **aryantandon2323@gmail.com**
+### 📬 Get In Touch
+
+- 💬 Let's talk about **model optimization, low-latency API architecture, or scaling computer vision systems**.
+- ✉️ Direct Email: **[aryantandon2323@gmail.com](mailto:aryantandon2323@gmail.com)**
